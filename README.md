@@ -10,3 +10,6 @@ pārliecināties, ka tās ir redzamas GitHub
 
 7.uzd
 Uzrakstīt funkciju, kas dotajam nedēļas dienas numuram atgriež dienas nosaukumu vārdiem.
+
+8.uzd
+Uzrakstīt funkciju, kas aprēķina romba laukumu, kam zināmas visu četru punktu koordinātes.
